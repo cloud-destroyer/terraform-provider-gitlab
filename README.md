@@ -2,6 +2,8 @@
     <img src=".gitlab/terraform_logo.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
 </a>
 
+[![release](https://github.com/cloud-destroyer/terraform-provider-gitlab/actions/workflows/release.yml/badge.svg)](https://github.com/cloud-destroyer/terraform-provider-gitlab/actions/workflows/release.yml)
+
 # Terraform Provider for GitLab
 
 - [Documentation](https://www.terraform.io/docs/providers/gitlab/index.html)
